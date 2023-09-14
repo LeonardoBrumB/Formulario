@@ -1,0 +1,29 @@
+.container {
+    line-height: 150%;
+}
+
+.header {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 1%;
+}
+
+/*Main*/
+.content {
+    padding-top: 4%;
+    padding-left: 36%;
+    padding-right: 35%;
+    color: white;
+    background-color: rgb(39, 39, 39);
+    padding-bottom: 18%;
+}
+
+/*footer*/
+.footer {
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: grey;
+    padding: 1%;
+    width: 100%;
+}
